@@ -1,43 +1,15 @@
-# 👋 Hi, I’m SjaanTheITGuy
+☕ Meet Sjaan — The IT Guy You Didn’t Know You Needed (But Definitely Do)
 
-☕ Coffee-dependent sysadmin | 💻 Full-time cable untangler | 🔧 Part-time bug creator, full-time bug fixer  
+Ever wonder who keeps the servers humming, the cables from unionizing, and the network from spontaneously combusting at 3 a.m.? Meet **SjaanTheITGuy** — coffee-powered sysadmin, part-time chaos coordinator, and full-time fixer of “weird issues that never happened before.”
 
----
+Sjaan doesn’t just manage infrastructure — he *tames* it. He speaks in fluent Bash, negotiates with routers like a diplomat, and can sense a missing semicolon the way sharks smell blood.
 
-### About Me  
-I’m Sjaan, also known as **“that one IT person”** who knows exactly which cable to unplug (and then regret it instantly).  
-- 👨‍💻 I work with servers, networks, and the occasional *mystical error 404*.  
-- 🖥️ I speak fluent Bash, broken Python, and passive-aggressive error messages.  
-- ☕ Fun fact: 90% of my troubleshooting is solved with *“have you tried turning it off and on again?”*  
+When something breaks (and it always does), Sjaan appears out of thin air — usually holding a mug, muttering something about Docker demons, and asking if you’ve tried turning it off and on again.
 
----
+Outside of work, he enjoys pretending to reduce his caffeine intake, rearranging cables for aesthetic purposes, and discovering new ways to crash Python scripts “for science.”
 
-### Currently  
-- 🔭 Maintaining servers (or at least pretending to).  
-- 🌱 Learning how to drink less coffee (failing).  
-- ⚡ Random superpower: spotting a missing semicolon from 5 meters away.  
+**Favorite quote:**
 
----
+> “If it works on my machine, it’s your problem now.” – Sjaan, moments before deployment.
 
-### Tech Stack  
-```
-
-💾 Linux | 🐍 Python | 🐳 Docker | ☁️ Cloud (sometimes stormy)
-🔌 Networking | 🔐 Security | 🤖 Automation (when it works)
-
-```
-
----
-
-
-### Fun Pronunciations of My Name  
-- Shy-anne-they-tea-guy  
-- She-yawn-thee-it-guy  
-- Zhaan-they-she-tea-guy  
-
-*(Good luck saying it out loud.)*
-
----
-
-
-> “If it works on my machine, it’s your problem now.” – *SjaanTheITGuy*
+Oh, and here is a picture of me, I will be in your head from now on!
