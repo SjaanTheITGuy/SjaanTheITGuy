@@ -13,3 +13,5 @@ Outside of work, he enjoys pretending to reduce his caffeine intake, rearranging
 > “If it works on my machine, it’s your problem now.” – Sjaan, moments before deployment.
 
 Oh, and here is a picture of me, I will be in your head from now on!
+
+<img width="1024" height="1344" alt="sjaan2" src="https://github.com/user-attachments/assets/c41d89f3-e376-4234-a9e0-c93e3d2f97bc" />
